@@ -4,6 +4,14 @@
 /* Mobile Layout: 320px */
 /* Wide Mobile Layout: 480px */
 /* =================================== */
+
+
+
+.features-img {
+  margin-bottom: 40px;
+}
+
+
 /*  Basic Style 
 /* =================================== */
 ::-moz-selection {
@@ -2405,6 +2413,13 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#963673",endCo
   height: 350px;
 }
 
+
+.video-left-gif {
+  background: url(../img/about-img.gif) no-repeat center;
+  background-size: cover;
+  height: 350px;
+}
+
 .video-right .overlay-bg {
   background-color: rgba(0, 0, 0, 0.78);
 }
@@ -2415,12 +2430,13 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#963673",endCo
 
 @media (max-width: 800px) {
   .video-right {
-    margin-top: 100px;
+    margin-top: 10px;
   }
 }
 
+
 .top-course-area {
-  background-color: #f9f9ff;
+  background-color: #faeaf6a1;
 }
 
 .course-right .lnr, .course-left .lnr {
@@ -2762,7 +2778,7 @@ h6 {
 }
 
 .footer-text a, .footer-text i {
-  color: #235ee7;
+  color: #de50aa;
 }
 
 .whole-wrap {
