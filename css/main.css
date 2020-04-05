@@ -20,6 +20,20 @@
 	margin-top:16px;
 } */
 
+/* iPhone 5 fixes hero */
+@media only screen and (min-device-width: 320px) and (max-device-width: 568px)
+and (-webkit-device-pixel-ratio: 2) and (device-aspect-ratio: 40/71) and (orientation:portrait)
+{
+  .banner-content {
+    margin-top: -260px !important;
+
+}
+}
+
+
+
+
+
 .single-footer-img {
   background-image: url("../img/mercadopago.png");
   background-size: contain;
