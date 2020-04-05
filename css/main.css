@@ -13,7 +13,7 @@
   text-align: center;
   font-size: 30px;
   box-shadow: 2px 2px 3px;
-  justify-content: flex-end; 
+  justify-content: flex-end;
 }
 
 .my-float{
@@ -102,7 +102,7 @@
   font-size:30px;
 	box-shadow: 2px 2px 3px #999;
   z-index:100;
-  
+
 }
 
 .my-float{
@@ -120,7 +120,7 @@
 }
 
 
-/*  Basic Style 
+/*  Basic Style
 /* =================================== */
 ::-moz-selection {
   /* Code for Firefox */
@@ -2283,7 +2283,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .section-gap {
-  padding: 120px 0;
+  padding: 60px 0;
 }
 
 .section-title {
@@ -2707,7 +2707,7 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#963673",endCo
 
 .single-review:hover {
   cursor: pointer;
-  background-color: white;  
+  background-color: white;
   box-shadow: 0px 20px 30px 0px #faeaf6;
 }
 
